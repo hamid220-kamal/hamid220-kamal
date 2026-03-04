@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently a Class 11 student who spends most of my free time glued to my keyboard. I love building AI-integrated apps and web platforms that people actually enjoy using. My journey is all about learning as much as I can and building things that matter.<br><br>AI is what really gets me excited. Whether it's making a voice assistant that feels like a friend or architecting a complex learning tool, I'm always looking for ways to push the boundaries and see what's possible. I'm just getting started!
+
+I'm a Class 11 student who dedicates most of my free time to coding. I'm passionate about creating AI-based applications and web platforms that users genuinely enjoy. My focus is on learning everything I can and developing impactful projects. 
+
+AI truly excites me. Whether it's designing a voice assistant that feels personal or constructing an intricate educational tool, I'm continually exploring new possibilities and pushing the limits. I'm just beginning my journey!
 
 
 ## 🌐 Socials:
