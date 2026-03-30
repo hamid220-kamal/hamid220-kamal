@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm a Class 11 student who dedicates most of my free time to coding. I'm passionate about creating AI-based applications and web platforms that users genuinely enjoy. My focus is on learning everything I can and developing impactful projects. 
+I'm a Class 12 student who dedicates most of my free time to coding. I'm passionate about creating AI-based applications and web platforms that users genuinely enjoy. My focus is on learning everything I can and developing impactful projects. 
 
 AI truly excites me. Whether it's designing a voice assistant that feels personal or constructing an intricate educational tool, I'm continually exploring new possibilities and pushing the limits. I'm just beginning my journey!
 
