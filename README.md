@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Hamid Kamal — AI Developer, Founder, Systems Architect" width="100%"/>
+  <img src="./banner.svg" alt="Hamid Kamal — AI Developer, Founder, Systems Architect" width="100%"/>
 </div>
 
 <div align="center">
