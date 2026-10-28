@@ -1,197 +1,212 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1628,70:0d2137,100:00d4aa&height=140&section=header&text=HAMID%20KAMAL&fontSize=52&fontColor=ffffff&fontAlignY=55&desc=AI%20Developer%20%C3%97%20Founder%20%C3%97%20Systems%20Architect&descSize=16&descAlignY=78&descColor=00d4aa&animation=fadeIn"/>
+  <img src="./assets/banner.svg" alt="Hamid Kamal — AI Developer, Founder, Systems Architect" width="100%"/>
 </div>
 
 <div align="center">
 
-<a href="https://hamid.jugaaadi.com/">
-  <img src="https://img.shields.io/badge/◈_PORTFOLIO-hamid.jugaaadi.com-00d4aa?style=for-the-badge&labelColor=0d1117&color=00d4aa" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/hamid-kamal/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
-</a>
-&nbsp;
-<a href="https://www.instagram.com/buildwith_hamid/">
-  <img src="https://img.shields.io/badge/Dev_Log-buildwith__hamid-e1306c?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" />
-</a>
-&nbsp;
-<a href="mailto:buildwithhamid@gmail.com">
-  <img src="https://img.shields.io/badge/Email-buildwithhamid@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=2600&pause=1000&color=FFB347&center=true&vCenter=true&width=760&height=40&lines=I+build+smart+AI+systems.;I+turn+ideas+into+real+products.;Making+AI+useful%2C+fast+and+reliable.;Let%27s+make+something+great+together." alt="intro" />
+
+<br/>
+
+<a href="https://hamid.jugaaadi.com/"><img src="https://img.shields.io/badge/My_Portfolio-ff6a88?style=for-the-badge&logo=safari&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="https://www.linkedin.com/in/hamid-kamal/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="https://www.instagram.com/buildwith_hamid/"><img src="https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="mailto:buildwithhamid@gmail.com"><img src="https://img.shields.io/badge/Email_Me-ffb347?style=for-the-badge&logo=gmail&logoColor=1a1a2e&labelColor=1a1a2e" /></a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=hamid220-kamal&color=00d4aa&style=flat-square&label=PROFILE+VIEWS)
-&nbsp;
-![Age](https://img.shields.io/badge/AGE-17-00d4aa?style=flat-square&labelColor=0d1117)
-&nbsp;
-![Pronouns](https://img.shields.io/badge/PRONOUNS-he%2Fhim-6e7681?style=flat-square&labelColor=0d1117)
-&nbsp;
-![Focus](https://img.shields.io/badge/FOCUS-LLMOps%20%C3%97%20Agents%20%C3%97%20Edge%20AI-00d4aa?style=flat-square&labelColor=0d1117)
-
-</div>
-
----
-
-<div align="center">
-
-```python
-hamid = {
-    "mission"  : "Make intelligence capable. Make capabilities intelligent.",
-    "domains"  : ["LLMOps", "Multi-Agent AI", "RAG Systems", "Edge Graphics", "Full-Stack"],
-    "stack"    : ["Python", "TypeScript", "C++", "WebGPU", "LangChain", "PyTorch"],
-    "open_to"  : ["Internships", "Founding Roles", "OSS Collaboration", "Advisory"],
-    "building" : "End-to-end AI systems that ship to production — not toy demos."
-}
-```
-
-</div>
-
----
-
-## `⬡` About
-
-I'm a **17-year-old AI developer and founder** obsessed with the intersection of **intelligence and capabilities** — not just building models, but engineering the systems that make them *production-viable, fast, and scalable*.
-
-My work spans the full depth of modern AI engineering: architecting **end-to-end LLMOps pipelines**, fine-tuning transformer models for domain adaptation, designing **autonomous multi-agent coordination systems**, and pushing intelligence to the client/edge layer via **WebAssembly, WebGPU, and OpenGL** for zero-latency execution.
-
-> *"Intelligence without capability is philosophy. Capability without intelligence is automation. I build the bridge."*
-
----
-
-## `⬡` Capability Matrix
-
-### ◈ AI & Intelligent Systems
-
-| Domain | Technologies |
-|---|---|
-| **Foundation Models & Training** | ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/HuggingFace-ffd21e?style=flat-square&logo=huggingface&logoColor=black) ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
-| **LLM Orchestration & Agents** | ![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=flat-square&logo=langchain&logoColor=white) |
-
-### ◈ High-Performance Graphics & Edge Intelligence
-
-| Domain | Technologies |
-|---|---|
-| **Client / Edge Compute** | ![WebAssembly](https://img.shields.io/badge/WebAssembly-654ff0?style=flat-square&logo=webassembly&logoColor=white) ![WebGPU](https://img.shields.io/badge/WebGPU-005a9c?style=flat-square&logo=googlechrome&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-5586a4?style=flat-square&logo=opengl&logoColor=white) |
-| **3D & Scene Graphs** | ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white) |
-
-### ◈ Languages
-
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599c?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)
-
-### ◈ Frameworks & Runtimes
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61dafb?style=flat-square&logo=react&logoColor=black)
-![React Router](https://img.shields.io/badge/React_Router-ca4245?style=flat-square&logo=reactrouter&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-### ◈ DevOps, Cloud & Infrastructure
-
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-fc6d26?style=flat-square&logo=gitlab&logoColor=white)
-![Gitpod](https://img.shields.io/badge/Gitpod-ffae33?style=flat-square&logo=gitpod&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-ff6c37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
----
-
-## `⬡` Production Systems
-
-> Hardened architectures, not toy demos. Each repo is a battle-tested study in production AI engineering.
-
-<br/>
-
-**`⬡ End-to-End AI-Ops / LLMOps Pipeline`** &nbsp;·&nbsp; `Python`
-
-A fully observable LLMOps infrastructure that automates model serving, prompt versioning, evaluation loops, and deployment orchestration — engineered for production-grade reliability at scale.
-
-<br/>
-
-**`⬡ Fine-Tuning / Model Optimization Pipeline`** &nbsp;·&nbsp; `Python`
-
-A streamlined framework for domain-adaptive fine-tuning and aggressive model compression (quantization, pruning, distillation) — cutting inference cost without sacrificing task-specific accuracy.
-
-<br/>
-
-**`⬡ Multi-Agent AI System`** &nbsp;·&nbsp; `Python`
-
-An autonomous multi-agent environment where specialized AI agents coordinate, delegate, and self-correct across complex reasoning chains — enabling tasks no single model context window can handle alone.
-
-<br/>
-
-**`⬡ Advanced-Production-RAG`** &nbsp;·&nbsp; `Python`
-
-A production-grade Retrieval-Augmented Generation system with hybrid retrieval, re-ranking, query decomposition, and latency-aware pipelines — delivering grounded, citation-accurate LLM responses at scale.
-
-<br/>
-
-**`⬡ One-Ride`** &nbsp;·&nbsp; `Python`
-
-An intelligent ride-coordination platform powered by a scalable backend architecture, real-time data flows, and an AI layer for smart routing and demand prediction.
-
----
-
-## `⬡` Live Metrics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-rouge-two-56.vercel.app/api?username=hamid220-kamal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9&ring_color=00d4aa&count_private=true&include_all_commits=true"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats-rouge-two-56.vercel.app/api/top-langs/?username=hamid220-kamal&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=hamid220-kamal&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4aa&ring=00d4aa&fire=ff6b35&currStreakLabel=00d4aa&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamid220-kamal&bg_color=0d1117&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=true&area_color=00d4aa"/>
-
-</div>
-
----
-
-## `⬡` Let's Build
-
-<div align="center">
-
-**I'm actively looking for high-conviction collaborators, early-stage teams,**  
-**and engineering orgs building at the frontier of AI.**
-
-*If you're working on something that matters — reach out.*
-
-<br/>
-
-<a href="https://hamid.jugaaadi.com/">
-  <img src="https://img.shields.io/badge/◈_VIEW_PORTFOLIO-hamid.jugaaadi.com-00d4aa?style=for-the-badge&labelColor=0d1117&color=00d4aa" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/hamid-kamal/">
-  <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-Hamid_Kamal-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:buildwithhamid@gmail.com">
-  <img src="https://img.shields.io/badge/SEND_AN_EMAIL-buildwithhamid@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
-</a>
+<img src="https://img.shields.io/badge/Age-17-ff6a88?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Pronouns-he%2Fhim-ffb347?style=flat-square&labelColor=1a1a2e" />
+<img src="https://komarev.com/ghpvc/?username=hamid220-kamal&color=ff6a88&style=flat-square&label=Visitors&labelColor=1a1a2e" />
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:0d2137,100:0d1117&height=100&section=footer&animation=fadeIn"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2000&pause=100000&color=FF6A88&center=true&vCenter=true&repeat=false&width=500&height=45&lines=About+Me" alt="About Me" />
 </div>
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+Hi, I'm **Hamid**. I'm 17, and I love building with AI.
+
+I don't just want to train a model. I want to build the **whole system** around it, so it runs fast, stays reliable, and really helps people.
+
+The four things I enjoy most:
+
+- 🧠 **Running AI in production**, from serving to testing to monitoring
+- 🤖 **AI agents** that work together as a team and fix their own mistakes
+- 🔎 **Smart search for AI** (RAG), so answers are accurate and come with sources
+- ⚡ **Fast apps in your browser**, using WebAssembly, WebGPU and OpenGL
+
+</td>
+<td width="38%" valign="middle" align="center">
+
+<img src="https://img.shields.io/badge/Mission-Make_AI_useful-ff6a88?style=for-the-badge&labelColor=1a1a2e" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Goal-Ship_real_products-ffb347?style=for-the-badge&labelColor=1a1a2e" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Style-Learn_by_building-9d7bff?style=for-the-badge&labelColor=1a1a2e" />
+
+</td>
+</tr>
+</table>
+
+> *"Intelligence without capability is just an idea. Capability without intelligence is just a tool. I build the bridge between them."*
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6a88,100:ffb347&height=3&section=header" width="60%"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2000&pause=100000&color=FF6A88&center=true&vCenter=true&repeat=false&width=600&height=45&lines=Pick+a+Mission" alt="Pick a Mission" />
+
+<sub>👇 Click any card to see how I can help</sub>
+</div>
+
+<br/>
+
+<details>
+<summary><b>🤖&nbsp; I need a team of AI agents</b></summary>
+<br/>
+
+I design agents that **split big jobs into small steps**, hand work to each other, and check their own answers. This lets them handle tasks that are too large for one AI to do alone.
+
+**Tools I use:** `Python` · `LangChain` · `PyTorch`
+
+</details>
+
+<details>
+<summary><b>🔎&nbsp; I need AI that answers from my own data</b></summary>
+<br/>
+
+I build **RAG systems**: the AI searches your documents first, then answers using what it found. You get clear answers that are grounded in real sources, not guesses.
+
+**Tools I use:** `Python` · `LangChain` · `Hugging Face`
+
+</details>
+
+<details>
+<summary><b>🚀&nbsp; I need my AI to run reliably in production</b></summary>
+<br/>
+
+I set up the full pipeline: **serving the model, testing its quality, tracking changes, and watching it after launch**, so problems get caught early.
+
+**Tools I use:** `Docker` · `GitHub Actions` · `Python` · `Vercel`
+
+</details>
+
+<details>
+<summary><b>🧠&nbsp; I need a model that is smaller, faster and cheaper</b></summary>
+<br/>
+
+I **fine-tune models for your domain** and make them lighter using compression ideas like quantization, pruning and distillation, so they cost less to run.
+
+**Tools I use:** `PyTorch` · `Hugging Face` · `Scikit-Learn` · `NumPy`
+
+</details>
+
+<details>
+<summary><b>⚡&nbsp; I need something fast and beautiful in the browser</b></summary>
+<br/>
+
+I build graphics and AI that run **right on the user's device**, with no waiting for a server. That means smooth 3D scenes and instant responses.
+
+**Tools I use:** `WebAssembly` · `WebGPU` · `OpenGL` · `Three.js` · `C++`
+
+</details>
+
+<details>
+<summary><b>🌐&nbsp; I need a full web or mobile app</b></summary>
+<br/>
+
+I build the front end, the back end and the database, and connect AI where it helps.
+
+**Tools I use:** `React` · `Next.js` · `React Native` · `Express.js` · `TypeScript` · `MongoDB`
+
+</details>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6a88,100:ffb347&height=3&section=header" width="60%"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2000&pause=100000&color=FF6A88&center=true&vCenter=true&repeat=false&width=500&height=45&lines=My+Tools" alt="My Tools" />
+
+<br/>
+
+**AI and Machine Learning**
+
+<img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-ffd21e?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Scikit--Learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1c3c3c?style=for-the-badge&logo=langchain&logoColor=white" />
+
+**Graphics and Browser Power**
+
+<img src="https://img.shields.io/badge/WebAssembly-654ff0?style=for-the-badge&logo=webassembly&logoColor=white" />
+<img src="https://img.shields.io/badge/WebGPU-005a9c?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenGL-5586a4?style=for-the-badge&logo=opengl&logoColor=white" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+
+**Languages and Frameworks**
+
+<img src="https://skillicons.dev/icons?i=py,ts,js,cpp,html,css,react,nextjs,express&theme=dark" />
+
+**DevOps and Cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,gitlab,gitpod,mongodb,postman,vercel&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6a88,100:ffb347&height=3&section=header" width="60%"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2000&pause=100000&color=FF6A88&center=true&vCenter=true&repeat=false&width=500&height=45&lines=I%27m+Open+To" alt="I'm Open To" />
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%"><h2>🎓</h2><b>Internships</b><br/><sub>Learn with great teams</sub></td>
+<td align="center" width="25%"><h2>🚀</h2><b>Founding Roles</b><br/><sub>Join early, build big</sub></td>
+<td align="center" width="25%"><h2>🌍</h2><b>Open Source</b><br/><sub>Build together in public</sub></td>
+<td align="center" width="25%"><h2>🧭</h2><b>Advice</b><br/><sub>Share what I've learned</sub></td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2000&pause=100000&color=FF6A88&center=true&vCenter=true&repeat=false&width=500&height=45&lines=Let%27s+Talk" alt="Let's Talk" />
+
+<br/>
+
+**Working on something cool with AI? I'd love to hear about it.**
+
+<br/>
+
+<a href="https://hamid.jugaaadi.com/"><img src="https://img.shields.io/badge/Visit_My_Portfolio-ff6a88?style=for-the-badge&logo=safari&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="https://www.linkedin.com/in/hamid-kamal/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="mailto:buildwithhamid@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-ffb347?style=for-the-badge&logo=gmail&logoColor=1a1a2e&labelColor=1a1a2e" /></a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,45:302b63,80:ff6a88,100:ffb347&height=120&section=footer&animation=fadeIn" width="100%"/>
